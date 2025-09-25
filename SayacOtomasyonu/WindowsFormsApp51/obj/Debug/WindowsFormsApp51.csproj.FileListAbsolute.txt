@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.exe.config
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.exe
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\bin\Debug\WindowsFormsApp51.pdb
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.Properties.Resources.resources
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.exe
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.pdb
+C:\Users\lab_c\source\repos\WindowsFormsApp51\WindowsFormsApp51\obj\Debug\WindowsFormsApp51.MainForm.resources
