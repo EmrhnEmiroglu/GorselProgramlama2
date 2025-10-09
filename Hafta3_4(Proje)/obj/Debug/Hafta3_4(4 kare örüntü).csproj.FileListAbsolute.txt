@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\bin\Debug\Hafta3_4(4 kare örüntü).exe.config
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\bin\Debug\Hafta3_4(4 kare örüntü).exe
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\bin\Debug\Hafta3_4(4 kare örüntü).pdb
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4_4_kare_örüntü_.Form1.resources
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4_4_kare_örüntü_.Properties.Resources.resources
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).exe
+C:\Users\lab_c\source\repos\Hafta3\Hafta3_4(4 kare örüntü)\obj\Debug\Hafta3_4(4 kare örüntü).pdb
