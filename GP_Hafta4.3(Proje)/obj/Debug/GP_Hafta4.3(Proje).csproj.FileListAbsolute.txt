@@ -1,0 +1,11 @@
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\bin\Debug\GP_Hafta4.3(Proje).exe.config
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\bin\Debug\GP_Hafta4.3(Proje).exe
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\bin\Debug\GP_Hafta4.3(Proje).pdb
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4._3_Proje_.Form1.resources
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4._3_Proje_.Properties.Resources.resources
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).exe
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).pdb
+C:\Users\emirh\source\repos\GP_Hafta4\GP_Hafta4.3(Proje)\obj\Debug\GP_Hafta4.3(Proje).exe.config
